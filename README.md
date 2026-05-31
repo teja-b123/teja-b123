@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm B.Raviteja 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Engineering Student | Problem Solver</h3>
+<h3 align="center">Full-Stack(MERN) Developer | Engineering Student | Problem Solver | AI Enthusiast</h3>
 
 <p align="center">
   I'm an engineering student passionate about building scalable web applications and solving complex algorithmic problems. My focus lies at the intersection of full-stack development, Artificial intelligence.
@@ -12,10 +12,10 @@
 
 *   🎓 Currently pursuing my Engineering degree with a strong focus on **Data Structures, Algorithms (DSA)**, and object-oriented programming.
 *   💻 I specialize in the **MERN stack**, crafting responsive, dynamic, and user-centric web experiences.
-*   ☁️ Passionate about backend architecture and cloud engineering, specifically leveraging **Docker** to containerize applications for seamless, scalable deployments.
+*   ☁️ Passionate about backend architecture and AI engineering, specifically leveraging **Docker** to containerize applications for seamless, scalable deployments.
 *   🤖 When I'm not coding web apps, I enjoy exploring **local AI deployments**, experimenting with open-source LLMs via tools like Ollama, and tinkering with data science concepts.
 *   🌱 Always eager to learn and currently diving deeper into **Cloud Native technologies** and advanced system design.
-*   📫 How to reach me: **b.raviteja200408@bmail.com**
+*   📫 How to reach me: **b.raviteja200408@gmail.com**
 
 ---
 
